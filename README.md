@@ -12,4 +12,12 @@ Contributors / Licensing
 
 Generally everything is LICENSE'D under the Apache 2 license by Abram Hindle.
 
+Sources:
+XMLHTTPRequest:
+https://developer.mozilla.org/en-US/docs/Web/API/XMLHttpRequest
 
+Json:
+https://www.w3schools.com/python/python_json.asp
+
+Canvas Radial gradient:
+https://www.w3schools.com/tags/canvas_createradialgradient.asp
